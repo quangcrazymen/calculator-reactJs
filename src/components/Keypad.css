@@ -1,0 +1,8 @@
+.Keypad{
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    /*background-color: teal;*/
+    position: relative;
+    height: 80%;
+}

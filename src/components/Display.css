@@ -1,0 +1,8 @@
+.Display{
+    display: flex;
+    justify-content: flex-end;
+    color:#80c9c9;
+    background-color: #2b293d;
+    height: 20%;
+    font-size: 30px;
+}
